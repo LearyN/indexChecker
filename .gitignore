@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Build
+build/
+dist/
+*.spec
+
+# Local configs
+token.json
+client_secret.json
