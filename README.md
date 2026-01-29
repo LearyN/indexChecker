@@ -1,3 +1,6 @@
+<img width="1000" height="640" alt="image" src="https://github.com/user-attachments/assets/b0164dd7-4eeb-42b7-bf17-bc93b7a37527" />
+
+
 # Indexing Checker (GSC 精确模式批量查询工具)
 
 > 🇨🇳 一款基于 **Google Search Console API** 的桌面工具，用于批量检查 URL 收录状态。  
